@@ -1,0 +1,76 @@
+{
+  "greeting": "¡Hola!",
+  "welcomeMessage": "Bienvenido a nuestra plataforma SaaS.",
+  "Auth": {
+    "loginTitle": "Iniciar Sesión",
+    "signupTitle": "Registrarse",
+    "emailLabel": "Correo Electrónico",
+    "passwordLabel": "Contraseña",
+    "loginButton": "Iniciar Sesión",
+    "signupButton": "Registrarse",
+    "logoutButton": "Cerrar Sesión",
+    "welcomeUser": "¡Bienvenido, {name}!",
+    "loading": "Cargando...",
+    "loginLink": "Iniciar Sesión",
+    "signupLink": "Registrarse",
+    "unauthorizedAccess": "Acceso no autorizado. Redirigiendo al inicio de sesión..."
+  },
+  "Landing": {
+    "Navbar": {
+      "home": "Inicio",
+      "features": "Características",
+      "pricing": "Precios",
+      "dashboard": "Panel"
+    },
+    "Hero": {
+      "title": "Construye Tu Próximo Gran Proyecto, Más Rápido.",
+      "subtitle": "Nuestra plataforma SaaS te brinda todas las herramientas para triunfar. Concéntrate en tu producto, nosotros nos encargamos del resto.",
+      "ctaButton": "Comienza Gratis"
+    },
+    "Features": {
+      "title": "Descubre Nuestras Características",
+      "feature1Title": "Infraestructura Escalable",
+      "feature1Desc": "Infraestructura confiable y escalable que crece con tu negocio.",
+      "feature2Title": "Analíticas Avanzadas",
+      "feature2Desc": "Obtén información detallada con nuestro panel de análisis completo.",
+      "feature3Title": "Integraciones Fluidas",
+      "feature3Desc": "Conéctate sin esfuerzo con tus servicios de terceros favoritos.",
+      "feature4Title": "Soporte 24/7",
+      "feature4Desc": "Nuestro equipo de soporte dedicado está aquí para ayudarte día y noche."
+    },
+    "Pricing": {
+      "title": "Precios Flexibles para Todos",
+      "freeTierName": "Gratis",
+      "freeTierPrice": "$0/mes",
+      "freeTierFeature1": "1 Proyecto",
+      "freeTierFeature2": "Analíticas Básicas",
+      "freeTierFeature3": "Soporte Comunitario",
+      "freeTierButton": "Regístrate Gratis",
+      "proTierName": "Pro",
+      "proTierPrice": "$29/mes",
+      "proTierFeature1": "Proyectos Ilimitados",
+      "proTierFeature2": "Analíticas Avanzadas",
+      "proTierFeature3": "Soporte Prioritario",
+      "proTierButton": "Comienza con Pro"
+    },
+    "Footer": {
+      "copyright": "© {year} TuNombreDeEmpresa. Todos los derechos reservados."
+    }
+  },
+  "DashboardNav": {
+    "overview": "Resumen",
+    "analytics": "Analíticas",
+    "users": "Usuarios",
+    "settings": "Configuración"
+  },
+  "DashboardPages": {
+    "overviewTitle": "Resumen del Panel",
+    "overviewContent": "Bienvenido a tu panel. Aquí tienes un resumen de tu cuenta.",
+    "analyticsTitle": "Analíticas",
+    "analyticsContent": "Aquí se mostrarán analíticas detalladas e informes.",
+    "usersTitle": "Gestión de Usuarios",
+    "usersContent": "Gestiona tus usuarios, roles y permisos aquí.",
+    "settingsTitle": "Configuración",
+    "settingsContent": "Configura tu cuenta y los ajustes de la aplicación aquí."
+  }
+}
