@@ -1,0 +1,76 @@
+{
+  "greeting": "Hello!",
+  "welcomeMessage": "Welcome to our SaaS platform.",
+  "Auth": {
+    "loginTitle": "Login",
+    "signupTitle": "Sign Up",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "loginButton": "Login",
+    "signupButton": "Sign Up",
+    "logoutButton": "Logout",
+    "welcomeUser": "Welcome, {name}!",
+    "loading": "Loading...",
+    "loginLink": "Login",
+    "signupLink": "Sign Up",
+    "unauthorizedAccess": "Unauthorized Access. Redirecting to login..."
+  },
+  "Landing": {
+    "Navbar": {
+      "home": "Home",
+      "features": "Features",
+      "pricing": "Pricing",
+      "dashboard": "Dashboard"
+    },
+    "Hero": {
+      "title": "Build Your Next Big Thing, Faster.",
+      "subtitle": "Our SaaS platform provides all the tools you need to succeed. Focus on your product, we handle the rest.",
+      "ctaButton": "Get Started Free"
+    },
+    "Features": {
+      "title": "Discover Our Features",
+      "feature1Title": "Scalable Infrastructure",
+      "feature1Desc": "Reliable and scalable infrastructure that grows with your business.",
+      "feature2Title": "Advanced Analytics",
+      "feature2Desc": "Gain deep insights with our comprehensive analytics dashboard.",
+      "feature3Title": "Seamless Integrations",
+      "feature3Desc": "Connect effortlessly with your favorite third-party services.",
+      "feature4Title": "24/7 Support",
+      "feature4Desc": "Our dedicated support team is here to help you around the clock."
+    },
+    "Pricing": {
+      "title": "Flexible Pricing for Everyone",
+      "freeTierName": "Free",
+      "freeTierPrice": "$0/mo",
+      "freeTierFeature1": "1 Project",
+      "freeTierFeature2": "Basic Analytics",
+      "freeTierFeature3": "Community Support",
+      "freeTierButton": "Sign Up Free",
+      "proTierName": "Pro",
+      "proTierPrice": "$29/mo",
+      "proTierFeature1": "Unlimited Projects",
+      "proTierFeature2": "Advanced Analytics",
+      "proTierFeature3": "Priority Support",
+      "proTierButton": "Get Started with Pro"
+    },
+    "Footer": {
+      "copyright": "© {year} YourCompanyName. All rights reserved."
+    }
+  },
+  "DashboardNav": {
+    "overview": "Overview",
+    "analytics": "Analytics",
+    "users": "Users",
+    "settings": "Settings"
+  },
+  "DashboardPages": {
+    "overviewTitle": "Dashboard Overview",
+    "overviewContent": "Welcome to your dashboard. Here is a summary of your account.",
+    "analyticsTitle": "Analytics",
+    "analyticsContent": "Detailed analytics and reports will be displayed here.",
+    "usersTitle": "User Management",
+    "usersContent": "Manage your users, roles, and permissions here.",
+    "settingsTitle": "Settings",
+    "settingsContent": "Configure your account and application settings here."
+  }
+}
